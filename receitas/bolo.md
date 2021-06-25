@@ -1,6 +1,6 @@
-#Bolo Simples
+# Bolo Simples
 
-##Ingredientes
+## Ingredientes
  - 3 ovos
  - 1 1/2 de açúcar 
  - 1/2 de óleo 
@@ -9,7 +9,7 @@
  - 1 de água 
  - 1 colher de fermento 
 
-##Modo de Preparo
+## Modo de Preparo
 Óleo, ovo, açúcar mexa, farinha, maizena mexa, água mexa, fermento 
 
 
